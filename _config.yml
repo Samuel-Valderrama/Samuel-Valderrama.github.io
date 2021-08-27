@@ -3,13 +3,13 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve`. If you change this file, please restart the server process.f
 
 # Site Settings
 #locale                   : "en-US"
-title                    : "Álvaro Emmanuel Jiménez "
+title                    : "Álvaro Emmanuel Jiménez Orozco"
 title_separator          : "-"
-name                     : &name "Álvaro Emmanuel Jiménez "
+name                     : &name "Álvaro Emmanuel Jiménez Orozco"
 description              : &description "personal description"
 url                      : https://AlvaroEmmanuelJO.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
