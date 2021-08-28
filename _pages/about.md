@@ -20,4 +20,4 @@ During my time at ITESM. I had the opportunity to participate in multiple activi
 I had the pleasure to <b>Founded</b> and be the <b>Vice-president</b> of the E-Sport Collague Team <i>T-Games</i> where with the support of my team we carry out National video game tournaments and events.
  </p>
 
-![pilatus](/images/robotec.png)
+![pilatus](/images/main.gif)
