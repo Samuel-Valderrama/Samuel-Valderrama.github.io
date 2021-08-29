@@ -50,7 +50,7 @@ Awards
 * Engineering Expo - ITESM, 2020
   * Third place in Engineering Expo in Mechatronics Enginerring with an AGV Project
    <br>
-    [See Certificate](https://drive.google.com/file/d/1tU_vtTaEIWHYk1xhwR5kj-WuUz0wDL1J/view?usp=sharing)
+    [See Certificate](https://drive.google.com/file/d/1QUt_FLYXchZlSnSBw73Gr7l5f5ijCvZn/view?usp=sharing)
 
 
 * Roborave International, 2019
