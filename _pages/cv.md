@@ -44,7 +44,7 @@ Awards
 * Best Averages - ITESM, 2020
   * Recognized as best averages of the Engineering School at ITESM
    <br>
-    [See Certificate](https://drive.google.com/file/d/1ASrMG9JbCc60gnqn_XPAdo1balDpsX24/view?usp=sharing)
+    [See Certificate]()
 
 
 * Engineering Expo - ITESM, 2020
@@ -56,7 +56,7 @@ Awards
 * Roborave International, 2019
   * Be in the fourth place in a Robot Competition with a robot sumo
   <br>
-    [See Certificate](https://drive.google.com/file/d/1QUt_FLYXchZlSnSBw73Gr7l5f5ijCvZn/view?usp=sharing)
+    [See Certificate](https://drive.google.com/file/d/1ASrMG9JbCc60gnqn_XPAdo1balDpsX24/view?usp=sharing)
 
 * Engineering Expo - ITESM, 2018
   * Best project of Basic Science Camalleon balls & Ionic Sound
