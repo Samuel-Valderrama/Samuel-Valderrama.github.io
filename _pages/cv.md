@@ -20,7 +20,7 @@ Certifications
 * Dassault Systèmes, 2020
   * Mechanical Design Associate
   <br>
-    [See credential](https://drive.google.com/file/d/1i8OWujFcc2TRndX5SPuf4qKF4lvNq78s/view?usp=sharing)
+    [See credential](https://drive.google.com/file/d/1XedRfk2gYnsJ5uTjLhbKcjGqnXLMK7vW/view?usp=sharing)
 
 * Microsoft Office Specialis Expert
   * Microsoft Office Packege
@@ -30,7 +30,7 @@ Certifications
 * Universal Robots A/S, 2021
   * CB3 e-Learning
   <br>
-    [See credential](https://drive.google.com/file/d/1xx9jvGN78dfUb_Rng1aVn7sgf5jqhKXW/view?usp=sharing)
+    [See credential](https://drive.google.com/file/d/1i8OWujFcc2TRndX5SPuf4qKF4lvNq78s/view)
 
 
 Awards
