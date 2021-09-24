@@ -9,7 +9,7 @@
 #locale                   : "en-US"
 title                    : "Samuel Valderrama"
 title_separator          : "-"
-name                     : &name "Álvaro Emmanuel Jiménez Orozco"
+name                     : &name "Samuel "
 description              : &description "personal description"
 url                      : https://samuel-valderrama.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
