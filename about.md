@@ -11,7 +11,7 @@ redirect_from:
 <p style='text-align: justify;'>
 
 
-I am a <b>Mechatronics Engineer</b> student at Instituto Tecnológico y de Estudios Superiores de Monterrey<b> ITESM</b>.
+I am a <b>Mechatronics Engineer student at Instituto Tecnológico</b> student at Instituto Tecnológico y de Estudios Superiores de Monterrey<b> ITESM</b>.
 I concider my self as a <b>creative person and passionate</b> about the development of cutting-edge technology in order to optimize processes and provide new solutions that generate a benefit for society. In my last semesters of my degree I have specialized in the area of <b>mechanical design and integration of mechatronic systems</b> such as the development of machines, automatic solutions and competitive robots.
 <br><br>
 
