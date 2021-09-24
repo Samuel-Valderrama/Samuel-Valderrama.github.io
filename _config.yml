@@ -7,9 +7,9 @@
 
 # Site Settings
 #locale                   : "en-US"
-title                    : "Samuel Valderrama"
+title                    : "Samuel Valderrama Corona"
 title_separator          : "-"
-name                     : &name "Samuel "
+name                     : &name "Samuel Valderrama Corona"
 description              : &description "personal description"
 url                      : https://samuel-valderrama.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
