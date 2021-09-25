@@ -17,4 +17,4 @@ I am a person who considers himself passionate about technological design. As a 
 During my academic training, I have had the opportunity to participate in diverse activities and projects such as be a member of a representative team (Robotec) in a robotics competition for TMR (Torneo Mexicano de Robotica), development and design project of automatic guidances vehicles with <i>Fluxing Engineering</i> as a training partner, participate in social activities as a member of a student group (SALID) in the state of Veracruz, and among others.
  </p>
 
-![pilatus](/images/main4.gif)
+![pilatus](/images/main1.gif)
