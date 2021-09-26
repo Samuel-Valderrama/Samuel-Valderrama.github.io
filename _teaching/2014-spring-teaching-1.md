@@ -4,7 +4,7 @@ collection: teaching
 type: "Activies"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Culturals and sports"
-date: 
+date: 2015
 location: "Mexico"
 ---
 
