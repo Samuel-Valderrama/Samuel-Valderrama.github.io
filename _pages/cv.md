@@ -9,61 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Certifications
-======
-
-* Dassault Systèmes, 2020
-  * Mechanical Design Professional
-  <br>
-    [See credential](https://drive.google.com/file/d/1PgZrge3byGw2g-A1USvNu4q7cAeoRqRX/view?usp=sharing)
-
-* Dassault Systèmes, 2020
-  * Mechanical Design Associate
-  <br>
-    [See credential](https://drive.google.com/file/d/1XedRfk2gYnsJ5uTjLhbKcjGqnXLMK7vW/view?usp=sharing)
-
-* Microsoft Office Specialis Expert
-  * Microsoft Office Packege
-  <br>
-    [See credential](https://drive.google.com/file/d/1xx9jvGN78dfUb_Rng1aVn7sgf5jqhKXW/view?usp=sharing)
-    
-* Universal Robots A/S, 2021
-  * CB3 e-Learning
-  <br>
-    [See credential](https://drive.google.com/file/d/1i8OWujFcc2TRndX5SPuf4qKF4lvNq78s/view)
-
-
 Awards
 ======
 
-* LiFE Prize - ITESM, 2019
-  * Better performance in the Intership program 
-   <br>
-    [See Certificate](https://drive.google.com/file/d/1-dt_koIaoilPevkxg5C84iSP7Qs7TLVX/view?usp=sharing)
-
-* Best Averages - ITESM, 2020
+* Best Grade Averages - ITESM, 2020
   * Recognized as best averages of the Engineering School at ITESM
+  <br>
+    [See file](https://drive.google.com/drive/folders/12IQpAemnQn27OuJiVfQsdlQBWiBBb1pI)
+
+* Líderes del Mañana, ITESM, 2016
+  * 100% National scholarship to study at Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)
+  <br>
+    [See file](https://drive.google.com/drive/folders/1b-M63ta7Xs7hgFxxMuPTfMtHjKtWm7Zr)
+
+* Programming Olympiad, UTCV ,2016
+  * 2nd place in programming Olympiad in the state of Veracruz
+  <br>
+    [See file](https://drive.google.com/drive/folders/1b-M63ta7Xs7hgFxxMuPTfMtHjKtWm7Zr)
+
+Course certifications
+======
+
+* Programming course in python 1, Pontificia Universidad Católica de Chile - Coursera , 2020
+  * Introduction to programming in Python I: Learning to Program with Python
    <br>
-    [See Certificate](https://drive.google.com/file/d/1wSizzV2VpL7kwkNB8eEmoSzEUmDnw2wD/view?usp=sharing)
+    [See Certificate](https://drive.google.com/drive/folders/10yep7YLJeHanhBdXmNTRYizOh5rgoE-N)
+
+* Exploring Sustainable Energy - Pontificia Universidad Católica de Chile - Coursera , 2019
+  * Exploring Sustainable Energy curse successfully completed
+   <br>
+    [See Certificate](https://drive.google.com/drive/folders/1AV_E5J_Yh56z8WNqyirvU-BnKkpPxzHU)
 
 
-* Engineering Expo - ITESM, 2020
+* Humanist Leadership and Social Transformation ITESM, 2021
   * Third place in Engineering Expo in Mechatronics Enginerring with an AGV Project
    <br>
-    [See Certificate](https://drive.google.com/file/d/1QUt_FLYXchZlSnSBw73Gr7l5f5ijCvZn/view?usp=sharing)
+    [See Certificate](https://drive.google.com/drive/folders/1R1v4rLGfeelEcWZPOLfNzIh9HOdBWyo0)
 
-
-* Roborave International, 2019
-  * Be in the fourth place in a Robot Competition with a robot sumo
-  <br>
-    [See Certificate](https://drive.google.com/file/d/1ASrMG9JbCc60gnqn_XPAdo1balDpsX24/view?usp=sharing)
-
-* Engineering Expo - ITESM, 2018
-  * Best project of Basic Science Camalleon balls & Ionic Sound
+Recognitions
+======
+* Recognising in fundraising for LDM scholarship- ITESM, 2021
+  * Procurement of funds to obtain two scholarships
    <br>
-    [See Certificate](https://drive.google.com/file/d/1zJCkdEE2r6ArJES0e5Z7WfpEJjYd2Qq7/view?usp=sharing)
+    [See Recognition ](https://drive.google.com/drive/folders/1rZ9UqvrnPIxf2MQL7o0LehI0g873d3dL)
 
-* Engineering Expo - ITESM, 2019
-  * Best project of Sustainable development Thermodynamic cycle
+* Participation in the Mexican robotics tournament, TMR, 2019
+  * Participation in the Mexican robotics tournament for the beach cleaning robot category.
    <br>
-    [See Certificate](https://drive.google.com/file/d/1l1wes8enznKpFyyRDcA0QqzgTrjEEDI6/view?usp=sharing)
+    [See Recognition ](https://drive.google.com/drive/folders/1-VxN2ZnoUw1L0nnNcdYpHfwGRlVeNPRs)
