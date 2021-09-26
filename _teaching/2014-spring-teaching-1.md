@@ -3,8 +3,8 @@ title: "Hobbies"
 collection: teaching
 type: "Activies"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 2016-01-01
+venue: "Culturals and sports"
+date: 
 location: "Mexico"
 ---
 
