@@ -6,12 +6,12 @@ main:
   - title: "Work Experience"
     url: /talks/    
 
- # - title: "Teaching"
- #   url: /teaching/    
-    
   - title: "Personal Projects"
     url: /portfolio/
         
+ - title: "Hobbies & extracurricular activities"
+    url: /teaching/    
+    
   #- title: "Hobbies & extracurricular activities"
   #  url: /year-archive/
     
