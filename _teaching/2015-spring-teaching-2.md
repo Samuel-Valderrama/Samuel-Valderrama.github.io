@@ -22,5 +22,7 @@ Entrepreneurship courses for public benefit
 ======
 In this project, I had the good fortune of being an organizing member of entrepreneurship courses that were taught by professional experts in the field. Who provides the society with entrepreneurship tools to improve their quality of life.
 
-Heading 3
+Environmental care
 ======
+Our student society has among values as the care of the environment. Therefore, we participated in various activities in favor of caring for the environment, such as promoting water care and tree planting.
+<br><br><img src='/images/SALID.gif'>
