@@ -18,8 +18,9 @@ In this project, I was the opportunity to support some students to improve their
 
 Also, we had the chance to do some activities as a literary group where we could share some books for them.
 
-Heading 2
+Entrepreneurship courses for public benefit
 ======
+In this project, I had the good fortune of being an organizing member of entrepreneurship courses that were taught by professional experts in the field. Who provides the society with entrepreneurship tools to improve their quality of life.
 
 Heading 3
 ======
