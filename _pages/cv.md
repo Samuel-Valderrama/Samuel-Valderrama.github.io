@@ -20,12 +20,12 @@ Awards
 * Líderes del Mañana, ITESM, 2016
   * 100% National scholarship to study at Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)
   <br>
-    [See file](https://drive.google.com/drive/folders/1b-M63ta7Xs7hgFxxMuPTfMtHjKtWm7Zr)
+    [See file](https://drive.google.com/drive/folders/1InEO5tz7LaLYlpIkuLKPfukJaTuSgYs_)
 
 * Programming Olympiad, UTCV ,2016
   * 2nd place in programming Olympiad in the state of Veracruz
   <br>
-    [See file](https://drive.google.com/drive/folders/1b-M63ta7Xs7hgFxxMuPTfMtHjKtWm7Zr)
+    [See file](https://drive.google.com/drive/folders/1AscanFMAQlnKISXLDhzws7u4IXHi5_L-)
 
 Course certifications
 ======
