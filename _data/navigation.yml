@@ -13,9 +13,10 @@ main:
         
  # - title: "Hobbies & extracurricular activities"
  #  url: /year-archive/
+ 
   - title: "Hobbies & extracurricular activities"
     url: /teaching/    
-    
+
   - title: "Certifications / Awards"
     url:  /cv/
     
