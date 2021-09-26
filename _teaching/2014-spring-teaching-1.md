@@ -1,20 +1,31 @@
 ---
-title: "Teaching experience 1"
+title: "Hobbies"
 collection: teaching
-type: "Undergraduate course"
+type: "Activies"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: ""
+date: 2016-01-01
+location: "Mexico"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I believe that having a healthy life is relevant to doing hobby activities since mental and physical health is part of our stability as individuals. Throughout my life, I have been able to carry out some sports and cultural activities such as those mentioned below.
 
-Heading 1
+Mix Martial Arts (MMA)
 ======
+At the age of 17, I got to know the world of mixed martial arts that has given me benefits in my life, such as being a peaceful person and learning to concentrate on carrying out activities in a methodological way.
 
-Heading 2
-======
+In 2017 I had the opportunity to participate in a local martial arts tournament where I reached the final.
 
-Heading 3
+Soccer
 ======
+Since I was a child, I have played soccer with my friends and on local teams, which has helped me to value teamwork since I am not very good at this sport, but together I have learned to achieve small goals.
+
+Hiking in mountains
+======
+In the state of Veracruz, where I am from, I like to go hiking as there are many mountains around it, and it helps to clear my mind and enjoy the landscapes.
+
+Dancing
+======
+Without a doubt, dancing is one of the things that most inspire me, and that allows me to learn a lot about myself and continuously learn about my motor memory.
+
+<br><br><img src='/images/Hobbies.gif'>
