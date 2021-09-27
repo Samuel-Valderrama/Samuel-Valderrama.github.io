@@ -42,7 +42,7 @@ Course certifications
 
 
 * Humanist Leadership and Social Transformation ITESM, 2021
-  * Third place in Engineering Expo in Mechatronics Enginerring with an AGV Project
+  * Course of Social Transformation
    <br>
     [See Certificate](https://drive.google.com/drive/folders/1R1v4rLGfeelEcWZPOLfNzIh9HOdBWyo0)
 
