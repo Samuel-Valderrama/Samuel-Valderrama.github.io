@@ -17,7 +17,7 @@ I am a person who considers himself passionate about technological design. As a 
 During my academic training, I have had the opportunity to participate in diverse activities and projects such as be a member of a representative team (Robotec) in a robotics competition for TMR (Torneo Mexicano de Robotica), development and design project of automatic guidances vehicles with <i>Fluxing Engineering</i> as a training partner, participate in social activities as a member of a student group (SALID) in the state of Veracruz, and among others.
 
 <br><br>
-My professional interest is to put into practice my knowledge for technologicaldevelopment in industrial automation,especially in robotics, semiconductors technology, programming, structure & data analysis.
+My professional interest is to put into practice my knowledge for technological development especially in  <b> programming <b> for industrial automation,semiconductors technology, robotics, structure & data analysis.
  </p>
 <br>
 <!--<p><a href="https://tec.mx/es/noticias/guadalajara/investigacion/mecatronicos-del-tec-trabajan-para-crear-movilidad-autonoma" title="Github">Official notice</a></p>-->
